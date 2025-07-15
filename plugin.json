@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Simple Multi Chat",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "A plugin for multi-chat management, built for the Cheshire Cat framework. It provides full support for chat creation, deletion, renaming, and retrieval, with automatic episodic memory tracking.",
+    "author_name": "Net7",
+    "author_url": "https://www.netseven.it/",
+    "plugin_url": "https://github.com/net7/simple-multi-chat",
+    "tags": "chat, management, memory, multi-chat",
+    "thumb": "https://raw.githubusercontent.com/net7/simple-multi-chat/main/logo.png"
 }
