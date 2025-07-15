@@ -10,7 +10,7 @@ from fastapi import Depends, HTTPException, Request
 from pydantic import BaseModel
 from qdrant_client.http.models import PointIdsList
 from qdrant_client.models import FieldCondition, Filter, MatchValue
-from .conversation import ensure_chat_collection_exists
+from .simple_multi_chat import ensure_chat_collection_exists
 from cat.log import log
 
 
