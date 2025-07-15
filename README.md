@@ -28,6 +28,14 @@ It provides full support for chat creation, deletion, renaming, and retrieval, w
 
 ---
 
+## 🎨 Companion UI
+
+A user-friendly Gradio interface is available to use this plugin. It provides a clean, ChatGPT-like experience for managing multiple conversations.
+
+- **[Check it out here](https://github.com/net7/simple-multi-chat-ui)**
+
+---
+
 ## 🔁 Available Endpoints
 
 ### 🟢 Chat Management
